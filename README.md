@@ -1,5 +1,4 @@
 # 100-Days-of-ML
-
 - A personal journey into Machine Learning! This repository documents my 100-day challenge of learning and practicing machine learning concepts, algorithms, and projects using Python.
 
 # 📚 What’s Inside
